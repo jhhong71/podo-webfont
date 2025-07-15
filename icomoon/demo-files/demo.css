@@ -150,3 +150,5 @@ p {
   font-size: 32px;
 }
 
+/* Custom CSS */
+.icon-info-blue:before { content: "\e900"; color: #5c61d4; font-size: 16px; }
